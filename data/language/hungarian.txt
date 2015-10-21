@@ -828,7 +828,7 @@ STR_0823    :Hiányzó vagy nem elérhető adatfájl
 STR_0824    :{BLACK}{CROSS}
 STR_0825    :A választott név már használatban van
 STR_0826    :Too many names defined
-STR_0827    :Not enough cash - requires {CURRENCY2DP}
+STR_0827    :Nincs elég pénzed - kell még {CURRENCY2DP}
 STR_0828    :{SMALLFONT}{BLACK}Ablak bezárása
 STR_0829    :{SMALLFONT}{BLACK}Az albak címsora - Húzd az ablak mozgatásához
 STR_0830    :{SMALLFONT}{BLACK}Nagyítás
@@ -1436,28 +1436,28 @@ STR_1430    :Ingyenes
 STR_1431    :Sétál
 STR_1432    :A következő felé tart: {STRINGID}
 STR_1433    :Várakozik a következőre: {STRINGID}
-STR_1434    :Drowning
-STR_1435    :On {STRINGID}
-STR_1436    :In {STRINGID}
-STR_1437    :At {STRINGID}
+STR_1434    :Fulladozik
+STR_1435    :{STRINGID}-on/en van
+STR_1436    :{STRINGID}-ban/ben van
+STR_1437    :{STRINGID}-nál/nél van
 STR_1438    :Ül
 STR_1439    :(select location)
 STR_1440    :Füvet nyír
 STR_1441    :Utat takarít
 STR_1442    :Kukát ürít
 STR_1443    :Kertet locsol
-STR_1444    :Watching {STRINGID}
-STR_1445    :Watching construction of {STRINGID}
-STR_1446    :Looking at scenery
-STR_1447    :Leaving the park
-STR_1448    :Watching new ride being constructed
+STR_1444    :Nézi a {STRINGID}-t
+STR_1445    :Nézi a {STRINGID} építését
+STR_1446    :Figyeli a tájat
+STR_1447    :Elhagyja a parkot
+STR_1448    :Figyeli ahogyan a jétlk épül
 STR_1449    :{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
 STR_1450    :{INLINE_SPRITE}{09}{20}{00}{00}{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
 STR_1451    :{STRINGID}{NEWLINE}({STRINGID})
 STR_1452    :Vendég neve
 STR_1453    :Add meg a vendég nevét:
-STR_1454    :Can't name guest...
-STR_1455    :Invalid name for guest
+STR_1454    :A vendég nem nevezhető el...
+STR_1455    :Nem lehetséges név a vendég számára
 STR_1456    :{WINDOW_COLOUR_2}Cash spent: {BLACK}{CURRENCY2DP}
 STR_1457    :{WINDOW_COLOUR_2}Cash in pocket: {BLACK}{CURRENCY2DP}
 STR_1458    :{WINDOW_COLOUR_2}Time in park: {BLACK}{REALTIME}
@@ -1465,47 +1465,47 @@ STR_1459    :Track style
 STR_1460    :{SMALLFONT}{BLACK}'U' shaped open track
 STR_1461    :{SMALLFONT}{BLACK}'O' shaped enclosed track
 STR_1462    :Too steep for lift hill
-STR_1463    :Guests
+STR_1463    :Vendégek
 STR_1464    :Helix up (small)
 STR_1465    :Helix up (large)
 STR_1466    :Helix down (small)
 STR_1467    :Helix down (large)
-STR_1468    :Staff
+STR_1468    :Személyzet
 STR_1469    :Ride must start and end with stations
-STR_1470    :Station not long enough
-STR_1471    :{WINDOW_COLOUR_2}Speed:
-STR_1472    :{SMALLFONT}{BLACK}Speed of this ride
-STR_1473    :{WINDOW_COLOUR_2}Excitement rating: {BLACK}{COMMA2DP32}  ({STRINGID})
-STR_1474    :{WINDOW_COLOUR_2}Excitement rating: {BLACK}Not yet available
-STR_1475    :{WINDOW_COLOUR_2}Intensity rating: {BLACK}{COMMA2DP32}  ({STRINGID})
-STR_1476    :{WINDOW_COLOUR_2}Intensity rating: {BLACK}Not yet available
-STR_1477    :{WINDOW_COLOUR_2}Intensity rating: {OUTLINE}{RED}{COMMA2DP32}  ({STRINGID})
-STR_1478    :{WINDOW_COLOUR_2}Nausea rating: {BLACK}{COMMA2DP32}  ({STRINGID})
-STR_1479    :{WINDOW_COLOUR_2}Nausea rating: {BLACK}Not yet available
-STR_1480    :{SMALLFONT}{OPENQUOTES}I can't afford {STRINGID}{ENDQUOTES}
-STR_1481    :{SMALLFONT}{OPENQUOTES}I've spent all my money{ENDQUOTES}
-STR_1482    :{SMALLFONT}{OPENQUOTES}I feel sick{ENDQUOTES}
-STR_1483    :{SMALLFONT}{OPENQUOTES}I feel very sick{ENDQUOTES}
-STR_1484    :{SMALLFONT}{OPENQUOTES}I want to go on something more thrilling than {STRINGID}{ENDQUOTES}
-STR_1485    :{SMALLFONT}{OPENQUOTES}{STRINGID} looks too intense for me{ENDQUOTES}
-STR_1486    :{SMALLFONT}{OPENQUOTES}I haven't finished my {STRINGID} yet{ENDQUOTES}
-STR_1487    :{SMALLFONT}{OPENQUOTES}Just looking at {STRINGID} makes me feel sick{ENDQUOTES}
-STR_1488    :{SMALLFONT}{OPENQUOTES}I'm not paying that much to go on {STRINGID}{ENDQUOTES}
-STR_1489    :{SMALLFONT}{OPENQUOTES}I want to go home{ENDQUOTES}
-STR_1490    :{SMALLFONT}{OPENQUOTES}{STRINGID} is really good value{ENDQUOTES}
-STR_1491    :{SMALLFONT}{OPENQUOTES}I've already got {STRINGID}{ENDQUOTES}
-STR_1492    :{SMALLFONT}{OPENQUOTES}I can't afford {STRINGID}{ENDQUOTES}
-STR_1493    :{SMALLFONT}{OPENQUOTES}I'm not hungry{ENDQUOTES}
-STR_1494    :{SMALLFONT}{OPENQUOTES}I'm not thirsty{ENDQUOTES}
-STR_1495    :{SMALLFONT}{OPENQUOTES}Help! I'm drowning!{ENDQUOTES}
-STR_1496    :{SMALLFONT}{OPENQUOTES}I'm lost!{ENDQUOTES}
-STR_1497    :{SMALLFONT}{OPENQUOTES}{STRINGID} was great{ENDQUOTES}
-STR_1498    :{SMALLFONT}{OPENQUOTES}I've been queuing for {STRINGID} for ages{ENDQUOTES}
-STR_1499    :{SMALLFONT}{OPENQUOTES}I'm tired{ENDQUOTES}
-STR_1500    :{SMALLFONT}{OPENQUOTES}I'm hungry{ENDQUOTES}
-STR_1501    :{SMALLFONT}{OPENQUOTES}I'm thirsty{ENDQUOTES}
+STR_1470    :Au állomás nem elég hosszú
+STR_1471    :{WINDOW_COLOUR_2}Sebesség:
+STR_1472    :{SMALLFONT}{BLACK}Ennek a játéknak a sebessége
+STR_1473    :{WINDOW_COLOUR_2}Élvezeti érték: {BLACK}{COMMA2DP32}  ({STRINGID})
+STR_1474    :{WINDOW_COLOUR_2}Élvezeti érték: {BLACKNem elérhető még
+STR_1475    :{WINDOW_COLOUR_2}Intenzizás: {BLACK}{COMMA2DP32}  ({STRINGID})
+STR_1476    :{WINDOW_COLOUR_2}Intenzitás: {BLACK}Még nem elérhető
+STR_1477    :{WINDOW_COLOUR_2}Intenzitás: {OUTLINE}{RED}{COMMA2DP32}  ({STRINGID})
+STR_1478    :{WINDOW_COLOUR_2}Émelygési érték: {BLACK}{COMMA2DP32}  ({STRINGID})
+STR_1479    :{WINDOW_COLOUR_2}Émelygési érték: {BLACK}Még nem elérhető
+STR_1480    :{SMALLFONT}{OPENQUOTES}Nincs pénzem a(z) {STRINGID}-ra/re {ENDQUOTES}
+STR_1481    :{SMALLFONT}{OPENQUOTES}Elköltöttem az összes pénzem{ENDQUOTES}
+STR_1482    :{SMALLFONT}{OPENQUOTES}Rosszul érzem magam {ENDQUOTES}
+STR_1483    :{SMALLFONT}{OPENQUOTES}Nagyon rosszul érzem magam {ENDQUOTES}
+STR_1484    :{SMALLFONT}{OPENQUOTES}Valami izgalmasabbra akarok felülni mint a(z) {STRINGID}{ENDQUOTES}
+STR_1485    :{SMALLFONT}{OPENQUOTES}{STRINGID} túl durvának tűnik nekem {ENDQUOTES}
+STR_1486    :{SMALLFONT}{OPENQUOTES}Még nem fejeztem be a {STRINGID}-mat/met {ENDQUOTES}
+STR_1487    :{SMALLFONT}{OPENQUOTES} Már a {STRINGID} látványától is rosszul vagyok {ENDQUOTES}
+STR_1488    :{SMALLFONT}{OPENQUOTES}Én aztán nem fizetek ennyit, hogy ráüljek a(z) {STRINGID}-ra/re {ENDQUOTES}
+STR_1489    :{SMALLFONT}{OPENQUOTES}Haza akarok menni{ENDQUOTES}
+STR_1490    :{SMALLFONT}{OPENQUOTES}{STRINGID}-nak/nek nagyon jó az értéke {ENDQUOTES}
+STR_1491    :{SMALLFONT}{OPENQUOTES}Már van nekem egy {STRINGID}-em/ám{ENDQUOTES}
+STR_1492    :{SMALLFONT}{OPENQUOTES}Nincs pénzem a(z) {STRINGID}-ra/re{ENDQUOTES}
+STR_1493    :{SMALLFONT}{OPENQUOTES}Nem vagyok éhes{ENDQUOTES}
+STR_1494    :{SMALLFONT}{OPENQUOTES}Nem vagyok szomjas{ENDQUOTES}
+STR_1495    :{SMALLFONT}{OPENQUOTES}Segítség! Megfulladok!{ENDQUOTES}
+STR_1496    :{SMALLFONT}{OPENQUOTES}Eltévedtem!{ENDQUOTES}
+STR_1497    :{SMALLFONT}{OPENQUOTES}{STRINGID} remek volt! {ENDQUOTES}
+STR_1498    :{SMALLFONT}{OPENQUOTES}I've been queuing for {STRINGID} for ages {ENDQUOTES}
+STR_1499    :{SMALLFONT}{OPENQUOTES}Fáradt vagyok {ENDQUOTES}
+STR_1500    :{SMALLFONT}{OPENQUOTES}Éhes vagyok {ENDQUOTES}
+STR_1501    :{SMALLFONT}{OPENQUOTES}Szomjas vagyok {ENDQUOTES}
 STR_1502    :{SMALLFONT}{OPENQUOTES}I need to go to the bathroom{ENDQUOTES}
-STR_1503    :{SMALLFONT}{OPENQUOTES}I can't find {STRINGID}{ENDQUOTES}
+STR_1503    :{SMALLFONT}{OPENQUOTES}Nem találom a(z) {STRINGID}-(e)t {ENDQUOTES}
 STR_1504    :{SMALLFONT}{OPENQUOTES}I'm not paying that much to use {STRINGID}{ENDQUOTES}
 STR_1505    :{SMALLFONT}{OPENQUOTES}I'm not going on {STRINGID} while it's raining{ENDQUOTES}
 STR_1506    :{SMALLFONT}{OPENQUOTES}The litter here is really bad{ENDQUOTES}
