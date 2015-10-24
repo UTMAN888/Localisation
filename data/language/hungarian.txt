@@ -2081,29 +2081,29 @@ STR_2073    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Cuddly Toy
 STR_2074    :Map of {STRINGID}
 STR_2075    :On-Ride Photo of {STRINGID}
 STR_2076    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Umbrella
-STR_2077    :Drink
+STR_2077    :Üdítő
 STR_2078    :Burger
-STR_2079    :Chips
-STR_2080    :Ice Cream
-STR_2081    :Candyfloss
-STR_2082    :Empty Can
-STR_2083    :Rubbish
-STR_2084    :Empty Burger Box
+STR_2079    :Sültkrumpli
+STR_2080    :Fagylalt
+STR_2081    :Vattacukor
+STR_2082    :Üres üveg
+STR_2083    :Szemét
+STR_2084    :Üres Burgeres Doboz
 STR_2085    :Pizza
 STR_2086    :Voucher for {STRINGID}
 STR_2087    :Popcorn
 STR_2088    :Hot Dog
-STR_2089    :Tentacle
-STR_2090    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Hat
-STR_2091    :Toffee Apple
-STR_2092    :{OPENQUOTES}{STRINGID}{ENDQUOTES} T-Shirt
-STR_2093    :Doughnut
-STR_2094    :Coffee
-STR_2095    :Empty Cup
-STR_2096    :Fried Chicken
-STR_2097    :Lemonade
-STR_2098    :Empty Box
-STR_2099    :Empty Bottle
+STR_2089    :Tengeri Herkentyűk
+STR_2090    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Sapka
+STR_2091    :Karamellás Alma
+STR_2092    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Póló
+STR_2093    :Fánk
+STR_2094    :Kávé
+STR_2095    :Üres Csésze
+STR_2096    :Rántott Csirke
+STR_2097    :Limonádé
+STR_2098    :Üres Doboz
+STR_2099    :Üres flakon
 STR_2100    :{WINDOW_COLOUR_2}On-Ride Photo price:
 STR_2101    :{WINDOW_COLOUR_2}On-Ride Photo price:
 STR_2102    :{WINDOW_COLOUR_2}On-Ride Photo price:
